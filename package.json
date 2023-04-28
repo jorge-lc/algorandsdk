@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Challenge for C3",
+  "main": "index.js",
+  "scripts": {
+    "allTest": "cypress run --headed",
+    "searchTransactionTest": "npx cypress run --headed --spec 'cypress/e2e/integration/SearchTransaction.cy.js'",
+    "generateTransactionTest": "npx cypress run --headed --spec 'cypress/e2e/integration/GenerateTransaction.cy.js'"
+  },
+  "author": "Jorge Carabajal",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  },
+  "dependencies": {
+    "algosdk": "^2.1.0"
+  }
+}

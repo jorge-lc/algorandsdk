@@ -1,0 +1,55 @@
+{
+    "current-round": 27501599,
+    "transaction": {
+        "asset-transfer-transaction": {
+            "amount": 0,
+            "asset-decimals": 6,
+            "asset-id": 27165954,
+            "asset-name": "PLANET",
+            "asset-unit-name": "Planets",
+            "close-acc-rewards": 0,
+            "close-amount": 0,
+            "close-asset-balance": 0,
+            "close-balance": 0,
+            "opt-in": false,
+            "receiver": "RFJYHVDKACSP4Q3FRIYYJWKXH2PI2I7E7HPPDL4QBQZR3PJJRWOBNN2VZU",
+            "receiver-acc-rewards": 150,
+            "receiver-asset-balance": 720544800,
+            "receiver-balance": 4848920,
+            "receiver-tx-counter": 4307,
+            "sender-asset-balance": 49659165742406,
+            "verification": {
+                "score": 100,
+                "reputation": "Verified",
+                "name": "PLANET",
+                "description": "PlanetWatch decentralizes, incentivizes, and gamifies environmental monitoring. Currently, we build dense air quality sensor networks streaming real-time data to our platform. Validated data earn Planet token rewards and build a global immutable air quality ledger on the Algorand blockchain. Sensing is mining!",
+                "unit-name": "Planets"
+            }
+        },
+        "asset-tx-counter": 346078082,
+        "block-rewards-level": 218288,
+        "close-rewards": 0,
+        "closing-amount": 0,
+        "confirmed-round": 27501569,
+        "fee": 1000,
+        "first-valid": 27501567,
+        "id": "T7YYPUX6PHVVKRLCV5VB5IFRWEYGR2BHZN2GAAUHY2F4DS5ZP7VA",
+        "index": 1033404231,
+        "inner-tx-offset": 0,
+        "intra-round-offset": 5,
+        "last-valid": 27502567,
+        "logs": [],
+        "note": "IGNORE",
+        "receiver-rewards": 0,
+        "round-time": 1678298933,
+        "sender": "ZW3ISEHZUHPO7OZGMKLKIIMKVICOUDRCERI454I3DB2BH52HGLSO67W754",
+        "sender-acc-rewards": 435461053,
+        "sender-balance": 1491688424,
+        "sender-rewards": 0,
+        "sender-tx-counter": 341239967,
+        "signature": {
+            "sig": "IGNORE"
+        },
+        "tx-type": "axfer"
+    }
+}
