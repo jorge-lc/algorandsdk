@@ -1,4 +1,4 @@
-# C3 Challenge
+# Algorand automated test and SDK use
 
 ## Instalation
 
